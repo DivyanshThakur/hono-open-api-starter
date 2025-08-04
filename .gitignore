@@ -12,8 +12,6 @@
 node_modules/
 
 # env
-.env
-.env.production
 
 # logs
 logs/
@@ -32,3 +30,6 @@ test.db
 .vercel
 dist
 .dev.vars
+
+.wrangler
+config.bat
